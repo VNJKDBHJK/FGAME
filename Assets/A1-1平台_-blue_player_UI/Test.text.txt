@@ -1,0 +1,34 @@
+A
+hello ,my player...
+A
+welcome to my nightmare
+A
+after i feel asleep , i always felt that there was a monster beside me...
+A
+i can even hear their breathing...
+A
+it's right in my ear!
+A
+please help me...
+A
+first i want to teach you some basic operations
+A
+press (left/right) or(A/D) to move me
+B
+right...let me try...
+A
+press (space) or (W) to jump , you can press twice
+B
+right...let me try...
+A
+press (down) or (Z) to crouch and till you press (up) or (S) to standup
+B
+right...let me try...
+A
+press (D&F||A&F) to dash
+B
+right...let me try...
+A
+...
+B
+...

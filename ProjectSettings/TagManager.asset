@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - collection
+  - lookup
+  - ground
+  - goodrushroom
+  - collection_carrot
+  - enemy_plant
+  - enemy_bee
+  - badrushroom
+  - player_attack
+  - player_into
+  - pplayer
+  - skull
+  - ppplayer
+  - skull_up
+  - parent_moving
+  - collection_star
+  - block
+  - R
+  - Chest
+  - Chest_1_1
+  - dead_line
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ground
+  - enemy
+  - Chest
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: map1
+    uniqueID: 3238613031
+    locked: 0
+  - name: player
+    uniqueID: 2899987629
+    locked: 0
+  - name: item
+    uniqueID: 1921626481
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 14949013
+    locked: 0

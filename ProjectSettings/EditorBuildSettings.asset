@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/game_123/A0_0.unity
+    guid: 94158d3d8856fef45b0a5fe849a456db
+  - enabled: 1
+    path: Assets/game_123/A1 1.unity
+    guid: ee3924b6d34131244950f95ac77c945d
+  - enabled: 1
+    path: Assets/game_123/A0.unity
+    guid: 0ccf38ded03665142990eafbce949b57
+  - enabled: 1
+    path: Assets/game_123/A1.unity
+    guid: 9869d15a16a8eca4f8f86ed7ed31329a
+  - enabled: 1
+    path: Assets/game_123/A2.unity
+    guid: b122c74da690a9246b1d11b7e5d82220
+  - enabled: 1
+    path: Assets/game_123/zuihou.unity
+    guid: 9f733225abb230f488a45be4c1e36a0b
+  - enabled: 1
+    path: Assets/game_123/A3.unity
+    guid: 3bfaef32b9e8bbe488de1d5a44f5622a
+  - enabled: 1
+    path: Assets/game_123/last_end.unity
+    guid: 236bf21ce69fb5944af873f88878640f
+  - enabled: 1
+    path: Assets/game_123/gameover.unity
+    guid: d2ee76ea2529060449a81967b2227dde
+  - enabled: 0
+    path: "Assets/\u5730\u56FE\u5408\u96C6/SampleScene.unity"
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
